@@ -1,9 +1,8 @@
-# RC-socket
-Projeto para a disciplina de redes de computadores sobre sockets
-
 <h1 align=center>Redes de Computadores</h1>
 
 <h2 align=center>Protocolo de Redes</h2>
+
+<p align=center>Projeto para a disciplina de redes de computadores sobre protocolos de comunicação e sockets</p>
 
 ## Descrição
 Aplicação web para gerenciar os filmes que o usuário está assistindo.
